@@ -1,7 +1,7 @@
-Etudiant en économie et statistiques
+### Etudiant en économie et statistiques
 
-- ENS Paris-Saclay - Economie
+- **ENS Paris-Saclay** - Economie
 
-- ENSAE - Cycle ingénieur - Data science, statistiques et apprentissage
+- **ENSAE** - Cycle ingénieur - Data science, statistiques et apprentissage
 
-- PSE - Master Analyse et Politique Economique
+- **PSE** - Master Analyse et Politique Economique
