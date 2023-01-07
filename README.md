@@ -4,4 +4,4 @@
 
 - **ENSAE** - Cycle ingénieur - Data science, statistiques et apprentissage
 
-- **PSE** - Master Analyse et Politique Economique
+- **PSE** - Master Analyse et Politique Economiques
