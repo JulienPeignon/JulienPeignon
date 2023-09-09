@@ -16,14 +16,19 @@
  
 ### 🚧 Travaux en cours
 
-- Stage au Ministère de la Transition écologique : macroéconomie / évaluation politiques publiques
+- **Stage au Ministère de la Transition écologique :** macroéconomie / évaluation politiques publiques
  
-- Master's thesis : econometrics / applied labor economics
+- **Master's thesis :** econometrics / applied labor economics
 
 ### 📧 Contact
 
 julien.peignon@ens-paris-saclay.fr
 
+<br />
+<div align="center">
+    <img src="mem.png" alt="mem" width="400" height="300">
+</div>
+<br />
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/julien-peignon/
