@@ -14,12 +14,6 @@
 
 - **PSE** - Master Analyse et Politique Economiques
  
-### 🚧 Travaux en cours
-
-- **Stage au Ministère de la Transition écologique :** macroéconomie / évaluation politiques publiques
- 
-- **Master's thesis :** econometrics / applied labor economics
-
 ### 📧 Contact
 
 julien.peignon@ens-paris-saclay.fr
