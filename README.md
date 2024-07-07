@@ -8,7 +8,7 @@
 </div>
 <br />
 
-- **ENS Paris-Saclay** - Economie
+- **ENS Paris-Saclay** - Economie & Master MVA
 
 - **ENSAE** - Cycle ingénieur - Data science, statistiques et apprentissage
 
