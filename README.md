@@ -1,5 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 ### 🎓 Curriculum Vitae
 
 - **ENS Paris-Saclay** - Economie & Master MVA
